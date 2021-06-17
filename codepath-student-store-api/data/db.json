@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rice Krispies",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
+      "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
+      "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
+      "price": 0.99
+    },
+    {
+      "id": 2,
+      "name": "Flamin Hot Cheetos",
+      "category": "food",
+      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
+      "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
+      "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
+      "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Cinnamon Rolls",
+      "category": "food",
+      "image": "https://cdn.pixabay.com/photo/2016/05/26/16/27/cinnamon-rolls-1417494_1280.jpg",
+      "source": "https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/",
+      "description": "Basically just cake for breakfast, but who's complaining",
+      "price": 2
+    },
+    {
+      "id": 4,
+      "name": "Coconut Water",
+      "category": "drinks",
+      "image": "https://static.openfoodfacts.org/images/products/20952983/front_en.5.400.jpg",
+      "source": "https://world.openfoodfacts.org/product/20952983/coconut-water-naturis",
+      "description": "Somehow incredibly hydrating, while also not really being water.",
+      "price": 3.25
+    },
+    {
+      "id": 5,
+      "name": "Fruit Medley",
+      "category": "food",
+      "image": "https://cdn.pixabay.com/photo/2015/02/27/01/10/fruits-651403_1280.jpg",
+      "source": "https://pixabay.com/photos/fruits-fresh-raw-vegetables-651403/",
+      "description": "Fruit salad. Yummy, yummy",
+      "price": 4.25
+    },
+    {
+      "id": 6,
+      "name": "Codepath Brand Socks",
+      "category": "apparel",
+      "image": "https://cdn.pixabay.com/photo/2016/07/04/04/29/dark-green-1495919_1280.jpg",
+      "source": "https://pixabay.com/photos/dark-green-in-tube-sock-black-1495919/",
+      "description": "Rep CodePath with style. 😎",
+      "price": 6
+    },
+    {
+      "id": 7,
+      "name": "Beanie",
+      "category": "apparel",
+      "image": "https://cdn.pixabay.com/photo/2012/10/09/03/59/cap-60343_1280.jpg",
+      "source": "https://pixabay.com/photos/cap-caps-for-baby-knot-hat-60343/",
+      "description": "A nice piece of clothing to keep your noggin warm!",
+      "price": 8.99
+    },
+    {
+      "id": 8,
+      "name": "Macbook Pro",
+      "category": "electronics",
+      "image": "https://cdn.pixabay.com/photo/2014/09/24/14/29/macbook-459196_1280.jpg",
+      "source": "https://pixabay.com/photos/macbook-laptop-google-display-459196/",
+      "description": "A big need for coding up tons of projects, of course.",
+      "price": 1125
+    }
+  ]
+}

@@ -14,6 +14,10 @@ class Storage {
     this.db.defaults({ products: []}).write()
   }
 
+  set(key, value) {
+    return this.db.set(key, value)
+  }
+
   get(key) {
     return this.db.get(key)
   }

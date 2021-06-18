@@ -27,17 +27,17 @@ Deployed Application (optional): n/a
 ### Walkthrough Video
 
 Displaying that my endpoint works (my GET request):
-    - ![](https://i.imgur.com/QOfFZzU.gif)
+![](https://i.imgur.com/QOfFZzU.gif)
 
 https://i.imgur.com/QOfFZzU.gif
 
 My wireframe:
-    - ![](https://i.imgur.com/oIi87VV.gif)
+![](https://i.imgur.com/oIi87VV.gif)
 
 https://i.imgur.com/oIi87VV.gif
 
 The beginnings of my site:
-    - ![](https://i.imgur.com/W9wZ0KK.gif)
+![](https://i.imgur.com/W9wZ0KK.gif)
 
 https://i.imgur.com/W9wZ0KK.gif
 

@@ -51,7 +51,7 @@ https://i.imgur.com/W9wZ0KK.gif
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-    - If I had more time, I would have began the lab a lot earlier in the week. Unfortunately, this week was a little overwhelming for me. There was a lot of dense content that was difficult to grasp in a short time span. I attempted to complete the labs everyday and I ended up not having much time to do the assignment.
+    - If I had more time, I would have began the project a lot earlier in the week. Unfortunately, this week was a little overwhelming for me. There was a lot of dense content that was difficult to grasp in a short time span. I attempted to complete the labs everyday and I ended up not having much time to do the assignment.
     - Yesterday, I spent almost all of my time working on the backend of the project. Instead, I would have began this on Tuesday or Wednesday, so that I could have at least most of Wednesday, all of Thursday, and most of Friday to focus on the UI apect
     - Both portions of the project were pretty difficult for me because I wanted to really make my SITE look like my design. The API and React posed some issues for me.
     - All in all, I am still proud of what I got done. It was a long week of the program and I will spend the rest of the weekend comleting the project in it's entirety.

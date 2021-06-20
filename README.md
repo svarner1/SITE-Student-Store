@@ -30,16 +30,20 @@ Deployed Application (optional): n/a
 
 Displaying that my endpoint works (my GET request):                                        
 ![](https://i.imgur.com/QOfFZzU.gif)
+    - https://i.imgur.com/QOfFZzU.gif
 
 My wireframe:                                                                           
 ![](https://i.imgur.com/oIi87VV.gif)
-
+    - https://i.imgur.com/oIi87VV.gif
+    
 My Site's navigation:                                                                
 ![](https://i.imgur.com/IEujUs3.gif)
-
+    - https://i.imgur.com/IEujUs3.gif
+    
 The products' individual pages:                                                       
 ![](https://i.imgur.com/9BzD8PB.gif)
-
+    - https://i.imgur.com/9BzD8PB.gif
+    
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?

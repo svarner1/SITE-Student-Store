@@ -1,4 +1,4 @@
-## Week 2 Assignment: Student Store
+## Week 2 Assignment: Student Store (Resubmission)
 
 Submitted by: Sydney Varner
 
@@ -10,8 +10,8 @@ Deployed Application (optional): n/a
 
 - [ *] The API should contain an endpoint that serves an array of all products in the store
 - [* ] A Store model should handle all data management logic for the API and be the interface for read/write operations to the JSON file.
-- [ ] The frontend should include a landing page that displays the products available for purchase.
-- [ ] Each product should have an individual page that shows the details of the product.
+- [* ] The frontend should include a landing page that displays the products available for purchase.
+- [* ] Each product should have an individual page that shows the details of the product.
 
 #### STRETCH FEATURES
 
@@ -24,25 +24,21 @@ Deployed Application (optional): n/a
 - [ ] Build a page in the UI that displays the list of all past orders and lets the user click on any individual order to take them to a more detailed page of the transaction.
 - [ ] Allow users to use an input to filter orders by the email of the person who placed the order.
 
+- ** I decided to implement a navbar to display particular products based on their category as a stretch feature.
+
 ### Walkthrough Video
 
-Displaying that my endpoint works (my GET request):             
+Displaying that my endpoint works (my GET request):
 ![](https://i.imgur.com/QOfFZzU.gif)
 
-https://i.imgur.com/QOfFZzU.gif
-
-My wireframe:                                          
-
+My wireframe:
 ![](https://i.imgur.com/oIi87VV.gif)
 
-https://i.imgur.com/oIi87VV.gif
+My Site's navigation:
+![](https://i.imgur.com/IEujUs3.gif)
 
-The beginnings of my site:                                        
-**
-![](https://i.imgur.com/W9wZ0KK.gif)
-
-https://i.imgur.com/W9wZ0KK.gif
-
+The products' individual pages:
+![](https://i.imgur.com/9BzD8PB.gif)
 
 ### Reflection
 
@@ -51,16 +47,22 @@ https://i.imgur.com/W9wZ0KK.gif
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-    - If I had more time, I would have began the project a lot earlier in the week. Unfortunately, this week was a little overwhelming for me. There was a lot of dense content that was difficult to grasp in a short time span. I attempted to complete the labs everyday and I ended up not having much time to do the assignment.
+  First submission:
+    - If I had more time, I would have began the lab a lot earlier in the week. Unfortunately, this week was a little overwhelming for me. There was a lot of dense content that was difficult to grasp in a short time span. I attempted to complete the labs everyday and I ended up not having much time to do the assignment.
     - Yesterday, I spent almost all of my time working on the backend of the project. Instead, I would have began this on Tuesday or Wednesday, so that I could have at least most of Wednesday, all of Thursday, and most of Friday to focus on the UI apect
     - Both portions of the project were pretty difficult for me because I wanted to really make my SITE look like my design. The API and React posed some issues for me.
     - All in all, I am still proud of what I got done. It was a long week of the program and I will spend the rest of the weekend comleting the project in it's entirety.
     - Right now, I don't have the 3rd and 4th requirements done. 
 
-* Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+Second submission:
 
-    - I think design is definitely a strength of mine, so I did get a few compliments about my wireframe
-    - Although, my project is far from completion I made sure to display all that I have including my code.
+- If I had more time I think that I would add different products. Most of the products currently on my SITE were items that were included in the example student store. I would also add the shopping cart as a stretch feature. 
+    
+Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+
+- I think design is definitely a strength of mine, so I did get a few compliments about my wireframe
+
+- Although, my project was far from completion I made sure to display all that I have including my code.
 
 ### Open-source libraries used
 

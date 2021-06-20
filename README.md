@@ -28,16 +28,16 @@ Deployed Application (optional): n/a
 
 ### Walkthrough Video
 
-Displaying that my endpoint works (my GET request):
+Displaying that my endpoint works (my GET request):                                        
 ![](https://i.imgur.com/QOfFZzU.gif)
 
-My wireframe:
+My wireframe:                                                                           
 ![](https://i.imgur.com/oIi87VV.gif)
 
-My Site's navigation:
+My Site's navigation:                                                                
 ![](https://i.imgur.com/IEujUs3.gif)
 
-The products' individual pages:
+The products' individual pages:                                                       
 ![](https://i.imgur.com/9BzD8PB.gif)
 
 ### Reflection
